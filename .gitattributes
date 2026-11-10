@@ -1,2 +1,2 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+# ネットワーク更新のmd5と手元のファイルを一致させるため、改行コードを変換せずそのまま保存する
+* -text

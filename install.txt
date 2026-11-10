@@ -1,0 +1,5 @@
+charset,UTF-8
+type,ghost
+
+name,とり、籠に入りやしない
+directory,toritoritori

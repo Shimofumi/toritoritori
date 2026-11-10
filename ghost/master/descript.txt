@@ -1,0 +1,14 @@
+charset,UTF-8
+type,ghost
+
+name,とり、籠に入りやしない
+sakura.name,ティエンナ
+kero.name,none
+
+craftman,Shimofumi
+craftmanw,しもふみ
+craftmanurl,https://ukadon.shillest.net/@Shimofumi
+
+homeurl,https://raw.githubusercontent.com/Shimofumi/toritoritori/main/
+
+shiori,aosora.dll

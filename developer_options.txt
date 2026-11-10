@@ -1,0 +1,10 @@
+.git/,noupdate,nonar
+.github/,noupdate,nonar
+.gitignore,noupdate,nonar
+.gitattributes,noupdate,nonar
+developer_options.txt,noupdate,nonar
+md5buildignore.txt,noupdate,nonar
+README.md,noupdate,nonar
+updates2.dau,noupdate,nonar
+updates.txt,noupdate,nonar
+ghost/master/savedata.asv,noupdate,nonar
